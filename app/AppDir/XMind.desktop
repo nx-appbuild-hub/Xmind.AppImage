@@ -2,10 +2,10 @@
 Categories=Development;Office;
 Comment=Tolles Brainstorming- und Mindmapping-Tool
 Exec=AppRun %U
-Icon=icon
-Name=XMind-8
+Icon=xmind
+Name=XMind
 StartupNotify=true
-StartupWMClass=XMind-8
+StartupWMClass=XMind
 Terminal=false
 Type=Application
 X-Deepin-Vendor=user-custom
